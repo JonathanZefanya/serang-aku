@@ -376,9 +376,9 @@ This project uses the following open-source libraries and services:
 
 For support, bug reports, or feature requests:
 
-- 📧 Email: [jonathan.zefanya16@gmail.com]
-- 🌐 Website: [xead.my.id]
-- 💬 Community: [[Discord](https://discord.gg/2MMdcFqU)]
+- 📧 Email: [jonathan.zefanya16@gmail.com](mailto:jonathan.zefanya16@gmail.com)
+- 🌐 Website: [xead.my.id](https://xead.my.id)
+- 💬 Community: [Discord](https://discord.gg/2MMdcFqU)
 
 ---
 

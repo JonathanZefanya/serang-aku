@@ -1,4 +1,4 @@
-# 🛡️ Project SECURITY
+# 🛡️ SERANG AKU
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 ## 🌟 Overview
 
-**Project SECURITY** is a comprehensive website security solution designed to protect your web applications from various cyber threats. Using industrial-strength algorithms similar to those employed by major tech companies, it detects and prevents:
+**SERANG AKU** is a comprehensive website security solution designed to protect your web applications from various cyber threats. Using industrial-strength algorithms similar to those employed by major tech companies, it detects and prevents:
 
 - 🔒 **SQL Injection (SQLi)** attacks
 - 🛡️ **Cross-Site Scripting (XSS)** vulnerabilities
@@ -40,7 +40,7 @@
 - 🤖 **Bad bots** and fake crawlers
 - 🌍 **Geographic threats** and more
 
-### Why Choose Project SECURITY?
+### Why Choose SERANG AKU?
 
 ✅ **Intelligent Pattern Recognition** - Detects unknown and zero-day attacks  
 ✅ **Minimal Performance Impact** - Lightweight and optimized code  
@@ -108,7 +108,7 @@
 
 ## 💻 System Requirements
 
-Before installing Project SECURITY, ensure your server meets these requirements:
+Before installing SERANG AKU, ensure your server meets these requirements:
 
 | Component | Minimum Version | Recommended |
 |-----------|----------------|-------------|
@@ -127,7 +127,7 @@ Before installing Project SECURITY, ensure your server meets these requirements:
 
 ## 📦 Installation
 
-Follow these steps to install Project SECURITY on your website:
+Follow these steps to install SERANG AKU on your website:
 
 ### Step 1: Prepare Directory Structure
 
@@ -187,7 +187,7 @@ Set **CHMOD 777** permissions to:
 
 ## 🔗 Quick Integration
 
-After installation, integrate Project SECURITY into your website with just **2 lines of code**:
+After installation, integrate SERANG AKU into your website with just **2 lines of code**:
 
 ### Integration Code
 
@@ -215,7 +215,7 @@ Choose **ONE** of these locations (preferably at the top of the file):
 
 ```php
 <?php
-// Include Project SECURITY - MUST BE AT THE TOP
+// Include SERANG AKU - MUST BE AT THE TOP
 include "security/config.php";
 include "security/project-security.php";
 
@@ -225,7 +225,7 @@ require_once 'config/database.php';
 ?>
 ```
 
-> ✅ **That's it!** Your website is now protected by Project SECURITY.
+> ✅ **That's it!** Your website is now protected by SERANG AKU.
 
 ---
 
@@ -233,7 +233,7 @@ require_once 'config/database.php';
 
 ### General Update Procedure
 
-When updating Project SECURITY to a newer version:
+When updating SERANG AKU to a newer version:
 
 1. **Backup Your Data**
    - Export all `psec_*` database tables via phpMyAdmin
@@ -328,7 +328,7 @@ Default login credentials are set during installation.
 
 ### Database Tables
 
-All Project SECURITY tables use the `psec_` prefix:
+All SERANG AKU tables use the `psec_` prefix:
 
 - `psec_bans` - Banned IP addresses
 - `psec_bans-ranges` - Banned IP ranges
@@ -390,7 +390,7 @@ This software is proprietary and protected by copyright law. Unauthorized copyin
 
 ## 🔐 Security Notice
 
-While Project SECURITY provides robust protection, no security solution is 100% foolproof. We recommend:
+While SERANG AKU provides robust protection, no security solution is 100% foolproof. We recommend:
 
 - Keeping your software up to date
 - Using strong passwords

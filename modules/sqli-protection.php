@@ -32,7 +32,7 @@ if ($settings['sqli_protection'] == 1) {
 	// Hide PHP Version
     if ($settings['sqli_protection6'] == 1) {
 		
-        @header('X-Powered-By: Project SECURITY');
+        @header('X-Powered-By: Serang Aku');
     }
     
 	// Sanitization of all fields and requests

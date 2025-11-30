@@ -19,5 +19,5 @@ echo '
 </style>';
 
 // HTML Confirmation Message
-echo '<p id="psec_confbox">Project SECURITY integration is correct.</p>';
+echo '<p id="psec_confbox">Serang Aku integration is correct.</p>';
 ?>

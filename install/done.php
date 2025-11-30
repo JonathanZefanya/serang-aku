@@ -68,7 +68,7 @@ if ($db) {
 ?>
 <center>
 <div class="alert alert-success">
-	Project SECURITY has been successfully installed on your website!
+	Serang Aku has been successfully installed on your website!
 </div>
     
 <div class="alert alert-warning">
@@ -76,7 +76,7 @@ if ($db) {
 </div>
     
 <div class="alert alert-info"> 
-<b>Put the integration code in the top (or bottom) part of one main <i>.php</i> file of your website to integrate it with Project SECURITY.</b><br />
+<b>Put the integration code in the top (or bottom) part of one main <i>.php</i> file of your website to integrate it with Serang Aku.</b><br />
 (<b>Examples</b>: <i>index.php file; database config (connection) file; functions file; header file; core file that is included in all other .php files.<i>)
 <br /><br />
 	<kbd>
@@ -85,7 +85,7 @@ if ($db) {
 	</kbd>
 </div>
     
-<a href="../" class="btn-success btn col-12"><i class="fas fa-arrow-circle-right"></i> Continue to Project SECURITY</a><br /><br />
+<a href="../" class="btn-success btn col-12"><i class="fas fa-arrow-circle-right"></i> Continue to Serang Aku</a><br /><br />
 </center>
 <?php
 footer();

@@ -1,5 +1,5 @@
 <?php
-// Project SECURITY version
+// Serang Aku version
 $psec_version = "5.1.2";
 
 $configfile = 'config.php';
@@ -70,10 +70,10 @@ function head()
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Antonov_WEB">
-	<meta name="generator" content="Project SECURITY" />
+	<meta name="generator" content="Serang Aku" />
     <meta name="robots" content="noindex, nofollow">
     <link rel="shortcut icon" href="assets/img/favicon.png">
-    <title>Project SECURITY &rsaquo; Admin Panel</title>
+    <title>Serang Aku &rsaquo; Admin Panel</title>
 
     <!-- STYLESHEETS -->
     <!--=================================================-->
@@ -171,7 +171,7 @@ if ($settings['dark_mode'] == 1) {
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
 
 	<center><a href="dashboard.php" class="brand-link">
-      <span class="brand-text font-weight-light"><i class="fab fa-get-pocket"></i> Project SECURITY</span>
+      <span class="brand-text font-weight-light"><i class="fab fa-get-pocket"></i> Serang Aku</span>
     </a></center>
 	
 	<div class="sidebar">
@@ -699,7 +699,7 @@ function footer()
     <div class="scroll-btn"><div class="scroll-btn-arrow"></div></div>
     <strong>&copy; <?php
     echo date("Y");
-?> <a href="https://github.com/JonathanZefanya" target="_blank">Project SECURITY</a> v<?php echo $psec_version; ?></strong>
+?> <a href="https://github.com/JonathanZefanya" target="_blank">Serang Aku</a> v<?php echo $psec_version; ?></strong>
 	
 </footer>
 

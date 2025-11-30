@@ -84,7 +84,7 @@ echo $settings['email'];
                                 <p><br />The E-Mail Address is used for receiving <b>Mail Notifications</b> and for the <b>Contact Button (Warning Pages)</b>.</p>
 							</div><hr />
                             <div class="form-group">
-								<label class="control-label">Project SECURITY</label><br />
+								<label class="control-label">Serang Aku</label><br />
 								<input type="checkbox" name="project_security" class="psec-switch" <?php
 if ($settings['project_security'] == 1) {
     echo 'checked';
@@ -108,7 +108,7 @@ if ($settings['test_integration'] == 1) {
     echo 'checked';
 }
 ?> />
-									</br> Check if your website is correctly integrated with Project SECURITY.<br />
+									</br> Check if your website is correctly integrated with Serang Aku.<br />
                                     Message will be displayed on your website if this option is <strong>Enabled</strong> and if <strong>Integration is correct</strong>.<br />
                             </div><hr /><br />
 							<div class="form-group">

@@ -32,7 +32,7 @@ if ($settings['sqli_protection'] == 1) {
 	// Hide PHP Version
     if ($settings['sqli_protection6'] == 1) {
 		
-        @header('X-Powered-By: MySekuriti');
+        @header('X-Powered-By: My Security');
     }
     
 	// Sanitization of all fields and requests

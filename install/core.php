@@ -38,7 +38,7 @@ function head() {
 <html lang="en">
 
 <head>
-    <title>MySekuriti - Installation Wizard</title>
+    <title>My Security - Installation Wizard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../assets/img/favicon.png">
     <meta charset="utf-8">
@@ -53,7 +53,7 @@ function head() {
         <div class="card bg-light">
             <div class="row d-flex justify-content-center">
                 <div class="col-lg-10">
-                    <br /><center><h3><i class="fab fa-get-pocket"></i> MySekuriti - Installation Wizard</h3></center><br />
+                    <br /><center><h3><i class="fab fa-get-pocket"></i> My Security - Installation Wizard</h3></center><br />
                         <div class="jumbotron">
                             <ul class="nav nav-tabs nav-fill">
                                 <li class="nav-item">

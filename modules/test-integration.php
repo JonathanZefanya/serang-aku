@@ -19,5 +19,5 @@ echo '
 </style>';
 
 // HTML Confirmation Message
-echo '<p id="psec_confbox">MySekuriti integration is correct.</p>';
+echo '<p id="psec_confbox">My Security integration is correct.</p>';
 ?>

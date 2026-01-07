@@ -30,10 +30,10 @@ $error = 0;
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="author" content="Antonov_WEB">
-		<meta name="generator" content="MySekuriti" />
+		<meta name="author" content="Jonathan Zefanya">
+		<meta name="generator" content="My Security" />
 		<meta name="robots" content="noindex, nofollow">
-        <title>MySekuriti &rsaquo; Admin Panel</title>
+        <title>My Security &rsaquo; Admin Panel</title>
 
         <!-- CSS -->
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.7.1/css/all.css">

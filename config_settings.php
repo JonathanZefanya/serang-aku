@@ -1,6 +1,6 @@
 <?php $settings = array (
   'site_url' => 'http://localhost',
-  'projectsecurity_path' => 'http://localhost/project-website/serang-aku',
+  'projectsecurity_path' => 'http://localhost/project-security',
   'username' => 'admin',
   'password' => '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918',
   'email' => 'admin@mail.com',
@@ -23,7 +23,7 @@
   'sqli_protection' => 1,
   'sqli_logging' => 1,
   'sqli_autoban' => 0,
-  'sqli_redirect' => 'http://localhost/project-website/serang-aku/pages/blocked.php',
+  'sqli_redirect' => 'http://localhost/project-security/pages/blocked.php',
   'sqli_mail' => 0,
   'badbot_protection' => 1,
   'badbot_protection2' => 1,
@@ -38,9 +38,9 @@
   'proxy_api3' => '',
   'proxy_logging' => 1,
   'proxy_mail' => 0,
-  'proxy_redirect' => 'http://localhost/project-website/serang-aku/pages/proxy.php',
+  'proxy_redirect' => 'http://localhost/project-security/pages/proxy.php',
   'spam_protection' => 0,
   'spam_logging' => 1,
-  'spam_redirect' => 'http://localhost/project-website/serang-aku/pages/spammer.php',
+  'spam_redirect' => 'http://localhost/project-security/pages/spammer.php',
   'spam_mail' => 0,
 ); ?>

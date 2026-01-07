@@ -35,7 +35,7 @@ if ($wquery->num_rows <= 0 && $wfquery->num_rows <= 0) {
         include "modules/test-integration.php";
     }
     
-    // Checking if Serang Aku is enabled
+    // Checking if MySekuriti is enabled
     if ($settings['project_security'] == 1) {
 		include "modules/ban-system.php";
         include "modules/sqli-protection.php";

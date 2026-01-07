@@ -3,7 +3,7 @@
         <div class="mt-auto d-flex justify-content-center">
           <div class="col-lg-8">
             <br />
-            <p>Protected by <strong><a href="https://github.com/JonathanZefanya" target="_blank">Serang Aku</a></strong></p>
+            <p>Protected by <strong><a href="https://github.com/JonathanZefanya" target="_blank">MySekuriti</a></strong></p>
           </div>
         </div>
       </footer>

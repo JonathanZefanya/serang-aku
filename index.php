@@ -31,9 +31,9 @@ $error = 0;
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="author" content="Antonov_WEB">
-		<meta name="generator" content="Serang Aku" />
+		<meta name="generator" content="MySekuriti" />
 		<meta name="robots" content="noindex, nofollow">
-        <title>Serang Aku &rsaquo; Admin Panel</title>
+        <title>MySekuriti &rsaquo; Admin Panel</title>
 
         <!-- CSS -->
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.7.1/css/all.css">

@@ -164,7 +164,7 @@ function psec_mail($mysqli, $type)
     
     $email   = 'notifications@' . $_SERVER['SERVER_NAME'] . ''; // Strip www.
     $to      = $settings['email'];
-    $subject = 'Serang Aku - ' . $type . '';
+    $subject = 'MySekuriti - ' . $type . '';
     $message = '
 					<h2>Details of Log - ' . $type . '</h2>
 					<p>IP Address: <strong>' . $ip . '</strong></p>
@@ -175,7 +175,7 @@ function psec_mail($mysqli, $type)
 					<p>Page:  <strong>' . $page . '</strong> </p>
                 	<p>Referer URL:  <strong>' . $referer . '</strong> </p>
                 	<p>Site URL:  <strong>' . $settings['site_url'] . '</strong> </p>
-                	<p>Serang Aku URL:  <strong>' . $settings['projectsecurity_path'] . '</strong> </p>
+                	<p>MySekuriti URL:  <strong>' . $settings['projectsecurity_path'] . '</strong> </p>
 				';
     $headers = 'MIME-Version: 1.0' . "\r\n";
     $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
